@@ -22,7 +22,7 @@ export default function Home() {
       </div>
       <div className={styles.info}>
         <a target="_blank" href="https://github.com/keleleo" >
-          my
+          Github
           Keleleo 
           <Image alt="github icon" width={32} height={32} src="/images/github.svg" />
         </a>
