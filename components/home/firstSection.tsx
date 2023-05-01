@@ -27,7 +27,7 @@ export function FirstSection() {
           <Image
             width={700}
             height={700}
-            src="/images/illustration1.svg"
+            src="/images/illustration01.svg"
             alt="ilustration"
           />
         </div>
